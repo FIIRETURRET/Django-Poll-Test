@@ -1,0 +1,9 @@
+li a {
+	color: green;
+}
+
+body {
+    background: url("images/bananas.png");
+	background-repeat: repeat;
+	#background-size: 100%
+}
